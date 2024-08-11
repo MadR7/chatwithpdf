@@ -16,8 +16,13 @@ export default async function Home() {
           <h2 className='mr-3 text-gray-500 text-3xl tracking-tight'>Your very own <span className='text-[#25c440] font-extrabold'>AI-Powered</span> chat bot to answer your questions about any PDF</h2>
           <UserButton />
         </div>
-        <div className='flex mt-2 flex-col items-center'>
-          { isAuth ? (<Button>Go to chats</Button>):(
+        <div className='flex mt-2 flex-col items-center text-center'>
+          { isAuth ? (
+            <div>
+            <Button>Go to chats</Button>
+            <p>fileupload</p>
+            </div>
+          ) : (
             <SignInButton><Button className='group'>Get Started <LogIn className='group-hover:translate-x-1 transition'/></Button></SignInButton>) 
           }
         </div>
