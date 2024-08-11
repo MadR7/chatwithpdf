@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setting everything up/Tech Stack.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "891573df0e7ea8c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "8-11-2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,16 +146,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "891573df0e7ea8c7",
+  "active": "a7d26aa0d77bc4e4",
   "lastOpenFiles": [
+    "().md",
+    "8-11-2024.md",
+    "Images",
+    "Images/Pasted image 20240811173718.png",
+    "Setting everything up/Tech Stack.md",
+    "Technologies/Next.JS.md",
+    "Technologies/Clerk Auth.md",
+    "Technologies",
     "Concepts/Retrieval Augmented Generation.md",
     "Setting everything up/What is this about.md",
     "Concepts/Edge Runtime.md",
     "Concepts/CDNs.md",
-    "8-11-2024.md",
     "Welcome.md",
     "Concepts",
-    "Setting everything up/Tech Stack.md",
     "Setting everything up",
     "create a link.md"
   ]

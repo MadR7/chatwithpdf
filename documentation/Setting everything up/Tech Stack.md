@@ -4,8 +4,8 @@
 Anticipated Tech Stack as of 8/11/2024
 
 
-- Next.js
-- Clerk Auth
+- [[Next.JS]]
+- [[Clerk Auth]]
 - Drizzle ORM + NeonDB
 - Stripe
 - AWS
